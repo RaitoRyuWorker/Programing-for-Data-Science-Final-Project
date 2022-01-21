@@ -1,0 +1,1 @@
+Chúng em không xài thêm thư viện gì đặc biệt, thầy chỉ cần kích hoạt môi trường min_ds-env và trong folder củng cấp với file notebook có chứa file data complaints.csv là chạy dược ạ.
